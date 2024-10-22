@@ -1,2 +1,2 @@
 # projectCodeX1
-Welcome to D-CARE, an AI-driven application designed to provide emotional support and assessment for individuals experiencing depression. Built with Streamlit and powered by Google's generative AI, D-CARE offers a conversational interface to engage with users in a compassionate and helpful manner.
+Welcome to D-CARE, an AI-driven platform thoughtfully designed to offer emotional support and mental health assessments for individuals facing depression. Powered by Streamlit and enhanced by Google's generative AI, D-CARE provides a conversational interface that engages users with empathy, understanding, and actionable insights.
